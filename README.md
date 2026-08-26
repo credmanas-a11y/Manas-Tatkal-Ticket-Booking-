@@ -86,7 +86,7 @@ This project is **not affiliated with or endorsed by IRCTC**. All rights pertain
 
 ## Disclaimer
 
-The information provided in this repository by **dpak-maurya/irctc-tatkal-ticket-booking** ("we", "us", or "our") is provided for educational purposes only.
+The information provided in this repository is provided for educational purposes only.
 
 All information in this repository is provided in good faith. However, we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information provided.
 
